@@ -11,3 +11,7 @@
 **I can't figure out how exactly to pull my doctor who site from GitHub to begin working on it again.**
 
 > To "pull" your files from Github.com to your local computer, open Github for Windows/Mac and Right-Click on the "clone" option in the list of remote (Github) repos. This will "clone" or "pull" your repo to your local system.
+
+**Can I use a version of Dreamweaver earlier than CS5 such as CS3 which is available in the library.**
+
+> In a pinch, yes. But you are probably better off trying to use CS5 or better.
