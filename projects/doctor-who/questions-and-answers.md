@@ -15,3 +15,7 @@
 **Can I use a version of Dreamweaver earlier than CS5 such as CS3 which is available in the library.**
 
 > In a pinch, yes. But you are probably better off trying to use CS5 or better.
+
+**How do I add a library item to a page?**
+
+> First open the *assets* panel. Select the library item and then click on the "insert" button. The library item will be inserted at the current cursor location.
