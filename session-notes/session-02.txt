@@ -1,0 +1,104 @@
+Session #2
+  Follow Ups & Recaps
+    Clarification on communicating with me.
+    No food or beverages in the lab
+    I will not be reviewing all assignments in class. Check the calendar.
+    Mobile devices.
+    Laptops.
+    GitHub
+    Assignments
+      Check the calendar
+      Assignments may be time consuming
+      Front loading
+  Startup
+    Do you have any questions about anything we discussed before today?
+    Do you have any questions or concerns about anything that you foresee coming up?
+    Do you understand the direction we're going in and what we want to achieve?
+  Part 1
+    History
+      History of the Internet
+        Sputnik 1
+        Defense Advanced Research Projects Agency (DARPA)
+        Packet Switching
+        Internet
+          A Network of Networks
+      History of the World Wide Web
+        World Wide Web
+        World Wide Web Consortium
+    Markup & Styling
+      Common Markup Language
+        Hypertext Markup Language
+          HTML 4
+          XHTML 1.1
+            Cheat Sheet
+            Hex Color Cheat Sheet
+          HTML5
+      Common Styling Language
+        CSS
+        Cascading Style Sheets
+          Version 2
+            Cheat Sheet
+          Version 3
+      Why separate markup from styling?
+        Content delivery
+          Desktop
+          Mobile
+          Specialty devices
+        Separation of content and presentation
+      Who decides this stuff?
+        Standards
+          W3C
+          Validation
+            Three types
+  Part 2
+    What is a web site?
+      Encapsulation
+      Collection of web pages.
+      What is a web page?
+        One HTML document.
+          Contains the content.
+        One or more assets.
+          Images
+          Video
+    How does a web page get to you?
+      Browsers
+        Why do we need a browser?
+        Applications
+          Chrome
+          Firefox
+          Internet Explorer
+          Opera
+          Safari
+        HTTP
+          HyperText Transfer Protocol
+      How does a web page get to you?
+        ICANN
+        Registrar
+          GoDaddy
+            DNS Server
+            Zone File
+              Caching
+        DNS
+          Domain Name System
+          Name Resolution
+        IP
+          Internet Protocol
+        How many requests would a woodchuck request if a woodchuck could request web pages?
+          View Source
+      What is a server and what is a server?
+        IIS
+          Internet Information Services
+          Windows Only
+        Apache
+          UNIX
+          Mac
+  Part 3
+    Anatomy of a web site.
+      HTML
+      CSS
+      Images
+  Shutdown
+    Do you have any questions about anything we discussed today?
+    Was there anything you didn't understand or aren't clear about?
+    Is there anything that I can help you with right now that will make your next assignment or class more productive?
+    Did you understand what we tried to achieve today?

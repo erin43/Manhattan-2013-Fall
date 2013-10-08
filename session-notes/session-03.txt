@@ -1,0 +1,180 @@
+Session #3
+  Follow Ups & Recaps
+    What are our first two rules?
+    Class repository (repo)
+      Grades are posted.
+        A mid term projection is now calculated.
+        There are no do overs.
+        There is no extra credit
+        Remember my initial grading notes
+        Remember that I am going to challenging you.
+      Notes available for your review
+      Get me your github address.
+    Laptop users
+      Laptop users must install GitHub for Windows/Mac
+      No Mouse - No Laptop
+    Essential computer skills.
+      Right clicking.
+      Creating files.
+      Creating folders.
+      Knowing where you are.
+  Startup
+    Do you have any questions about anything we discussed before today?
+    Do you have any questions or concerns about anything that you foresee coming up?
+    Do you understand the direction we're going in and what we want to achieve?
+  Part 1
+    Final Project Topics
+      Listen to other people's topics.
+      Listen to my comments.
+    Skill Challenge
+  Part 2
+    Objects!
+      A thing or single unit
+        A pencil
+        A house
+        An HTML document
+        A paragraph
+      May or may not have attributes
+        Object = Human
+          Attributes
+            Gender
+            Name
+            Weight
+        Object = Document
+          Attributes
+            File name
+            Size
+            Type
+      May contain other objects
+        Considered to be "inside"
+        A "purse" object may contain a "wallet" object.
+        When an object contains another object, the inner object is considered to be a child and the outer object a parent.
+        Generations
+          Violet
+            Grandmother to Mary
+            Mother to Cora
+          Cora
+            Daughter of Violet
+            Mother to Mary
+          Mary
+            Granddaughter to Violet
+            Daughter to Cora
+      Attributes of the parent object may be inherited by the child object.
+        Inheritance
+          Mary will inherit Cora's wealth
+          Mary will inherit Cora's eye color
+        Cascading
+          Violet's attributes will cascade down to Cora and then to Mary
+    Object Sample
+      House
+        Attributes
+          Address
+            1234 Anywhere Lane
+          Type
+            Ranch
+        Container
+          Person
+            Attributes
+              Gender
+                Male
+              Name
+                Mike
+          Person
+            Attributes
+              Gender
+                Female
+              Name
+                Carol
+            Container
+              Person
+                Attribute
+                  Gender
+                    Female
+                  Name
+                    Cindy
+              Person
+                Attribute
+                  Gender
+                    Female
+                  Name
+                    Jan
+              Person
+                Attribute
+                  Gender
+                    Female
+                  Name
+                    Marcia
+                    Marcia
+                    Marcia
+      Inheritance
+        Hierarchy
+        Parent-Child Relationship
+          Jan
+            Carol
+              House
+        Cascading
+          House
+            Attributes
+              Address
+                1234 Anywhere Lane
+          Carol
+            Inherits
+              Attributes
+                Address
+                  1234 Anywhere Lane
+          Marcia
+            Inherits
+              Attributes
+                Address
+                  1234 Anywhere Lane
+    Other names
+      Elements
+      Nodes
+      Others
+  Part 3
+    Site Definition Basics
+      What is a Site Definition?
+        It tells Dreamweaver where your files are.
+        It creates context.
+        Dreamweaver doesn't know anything about your site until you tell it when it is.
+        A properly configured site definition allows Dreamweaver to help you with your site.
+      Lab
+        Open Dreamweaver
+        Create a folder on your desktop
+    File Management
+      Creating files and folders
+      Developing a hierarchy
+      File naming conventions
+        Home page is always index.html
+        Only alphanumeric
+        No special characters
+        All lower case
+        No spaces
+        Dashes are allowed
+        Underscores are not
+        Proper suffix
+          .html
+          .css
+          .jpg
+        Good
+          my-web-page.html
+          my-visit-to-italy.html
+          understanding-quantum-physics.html
+        Bad
+          my_web_page.html
+          my#visit*to(italy).html
+          This-Is-My-Web-Page.html
+          This is my web page.html
+    What is a repository?
+      A place or container to hold a specific thing or group of things.
+      Anything not part of the specific thing or group of things should not be in a repository.
+    Let's build a web site
+      Basic
+        Create a folder
+        Create a home page
+  Shutdown
+    Do you have any questions about anything we discussed today?
+    Was there anything you didn't understand or aren't clear about?
+    Is there anything that I can help you with right now that will make your next assignment or class more productive?
+    Did you understand what we tried to achieve today?
+    Carol Lynn's Final Words

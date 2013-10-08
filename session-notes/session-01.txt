@@ -1,0 +1,239 @@
+Session #1
+  Hour 1
+    Instructor Introduction
+      Ralph M. Rivera
+        Rahvalor Interactive
+        {Web.Search.Social}
+        Email
+          ralph.rivera@manhattan.edu
+        Twitter
+          @ralphmrivera
+        LinkedIn
+          http://www.linkedin.com/in/ralphmrivera
+        Facebook
+          https://www.facebook.com/ralphmrivera
+        GitHub
+          https://github.com/RalphMRivera
+    The Mind Map
+      My speaking notes.
+      Available to you at the class repo
+      My notes should not act as your notes
+      My notes should supplement them.
+      Typical pattern
+        Follow Ups/Recaps
+        Startup
+        Hour 1
+        Hour 2
+        Hour 3
+        Shutdown
+    Course Overview
+      What this class is.
+        An introduction to web development.
+        What will we learn?
+          Conceive a web site
+          Plan a web site
+          Build a web site
+          Version control your web site
+          Test and validate your web site
+          Deploy a web site
+      What this class isn't.
+        An art class.
+        A programming class.
+          Javascript
+          PHP
+          Databases.
+        A Photoshop class
+          Kinda
+          Will cover basics
+            Cropping
+            Resizing
+            Saving for web
+      Goals
+        Stated Goal
+          Understanding the web development process
+        Not the goal
+          It is not the goal of this class to make you love web development.
+          Most are indifferent.
+          Some love it.
+          Some hate it.
+    Course Requirements
+      Thinking
+      Imagination
+      Curiosity
+    Teaching Paradigm
+      Class Paradigm
+        I am your client.
+        This classroom will operate as a business
+        Consider yourself a freelancer
+      Methodology
+        Concept Discussion
+        Demonstration
+        Class Walk Through
+        Flying Solo
+        Video supplements
+          Example 1
+          Example 2
+      Misc
+        I use mobile devices.
+        What happens if I am late?
+          Class is in session unless I email the department and have you dismissed
+        Opening the door to the classroom.
+          I should never see students huddled in the hallway
+        No food or beverages in the lab
+        Temperature control
+          Bring a sweater
+    Themes
+      Efficiency
+        Your first page will take a long time to create.
+        Each subsequent page will take less time.
+        You should be striving to spend less time in production
+      Planning
+        Good planning decreases production time.
+        Say what you want to accomplish out loud.
+      Technology sucks.
+        Technology will be an ongoing challenge.
+        Your computer will crash.
+      Problem solving
+  Hour 2
+    Grading Paradigm
+      Everything is graded.
+        My grades are not fair
+        My grades are not unfair
+        They are a measure of your work
+        Sometimes they are subjective
+      This is a production class.
+        There is no grade for trying.
+      Project submission will always be electronic.
+        The parameters for submission will be provided. If you do not know the submission requirements. Ask.
+        Never by email.
+      Assignments are due before class.
+        I will take measures to preempt you from submitting your assignments during class.
+      Assignments are small and build on top of preceding assignments
+        Some assignments can not be completed without the prior assignment being completed.
+      If you need help from me, you must be judicious with what you ask me and when
+        If you email me at 1am the night before an assignment is due, I may not even see your email
+      I grade you for your work, not mine.
+      This class is challenging, but not hard.
+        ...unless you do not complete your assignments.
+      The Holy Crap Half Grade Rule
+        Late assignment = half grade deduction for the assignment per day
+        Assignments that are late by the next session will receive a zero.
+      The Pet Peeves Half Grade Rule
+        Mobile device = half grade penalty for final grade.
+        Absence = half grade penalty for final grade.
+        Communication Department: 4 hours is grounds for an F
+        What if I you are late to class?
+          Don't be late.
+      Access to the lab outside of class time.
+      Assume there is a test every week
+        Is there a test next week?
+          Assume "yes"
+        What is on the test?
+          Everything we discuss is fair game
+      Look up all concepts in Wikipedia and read their relevant entry
+        You only need to read the brief at the top.
+      Review your grades frequently.
+        I will grade assignments within one week
+        You have one week to dispute it.
+        After that, it's etched in stone.
+        I'm not debating grades at the end of the semester.
+      If you have questions or concerns
+        Do not approach me before class
+          Not because I don't want to talk
+          Because I'm distracted
+        Email me
+          Give me time to consider your question
+          I'll always respond
+          Screen shares
+    Syllabus Overview
+    Calendar Overview
+  Hour 3
+    Final Project
+      You pick the topic, but I must approve it.
+        The topic must not be broad
+          "Sports" is not a good topic.
+          The topic should be "niche". In other words cover a specific topic.
+        The topic must allow for a diversity of content
+          A site where you have a bunch of pages of albums you like is not very interesting.
+          If you are going to have a similar pages (e.g. recipes), find something to make the pages interesting.
+        The idea is to create an interesting site.
+      Requirements
+        Content Research
+        Image Research
+        Planning
+        Construction
+      In class projects & assignments will parallel the final project
+    Going off the reservation.
+      Mac vs. PC
+      Using computers outside of the lab.
+      Buying Adobe Dreamweaver
+      Creative Cloud
+      Bring your own computer
+    Getting Help
+      YouTube
+      Google
+      Stack Overflow
+      Adobe Web Site
+      There is no lack of information on the Internet about the topics being covered in class.
+    Validation and Specifications
+      What is validation and why does it matter?
+      Why XHTML 1.1. and not HTML 5?
+    How to communicate with me via email.
+      Be succinct.
+      Write your email, proofread it.
+      Then write it again at half the length.
+      Be specific about what you want.
+      Be specific about the issue that you are having.
+      Scheduling time is important.
+      I have a fundamentally different schedule than you.
+      Your emails do not make more sense with more words.
+    Email Dos and Don'ts
+      Example #1
+        Don't
+          Hello Ralph,
+          I was just looking at my Blackboard grade and I noticed that I received a B in the class according to Blackboard, but a B- in the class on Self Service.
+          Thank you
+        Don't Follow Up
+          Hello Ralph,
+          I sent you an email last week about my grade. I was confused as to why I had a B on Blackboard but a B- in the class. I wanted to know some of the details of my grade. I want to know what brought me down a whole grade level. I would also like to know the grade breakdown for Final Project Preview which I got a 79 on even though it was identical to yours and validated perfectly. I haven't heard back from you so I just wanted to check in because it has been a week. Thank you,
+        Do
+          Hello Ralph,
+          I just compared my grade on Blackboard and Self Service. The former shows a B and the latter shows a B-. Can you explain the difference between the grades and how you came to my final project grade so that I understand it?
+          Thanks
+      Example #2
+        Don't
+          Dear Ralph,
+          I know I didn't submit the gallery project on time. I was having trouble and because the computer I was using was messing up and I get a 0?
+          That is not acceptable.
+        Do
+          Dear Ralph
+          I had technical challenges getting my project completed on time. I have not yet submitted it. I would like to, but I need help.
+          Can we set up time to talk?
+    Tips on making this class a success
+      What is success?
+        Spending as little time as possible on production
+      Plan ahead
+      When you have a problem, speak the problem out loud.
+      Don't touch your computer until you know what you want
+      Don't zombify in front of your computer
+        This isn't Facebook
+      This class isn't about faith, it's about facts
+        "I applied the template"
+      Solutions to problems are always simple
+      If you are using your own laptop, buy a freaking mouse.
+      Learn keyboard shortcuts.
+        Back to the Basics: Learn to Use Keyboard Shortcuts Like a Ninja
+  Assignments
+    Gravatar
+      What is Gravatar?
+      Create a gravatar account
+      This account will come in handy in the future
+      Use an appropriate picture
+      Tied to Wordpress.com
+    GitHub
+      What is GitHub?
+      Create a GitHub account
+      This account will come in handy in the future
+      GitHub will use the Gravatar image assuming you use the same email address
+      "Watch" the "GitHub Directory" and "Final Project" repos.
+    Action Book
