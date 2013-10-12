@@ -1,0 +1,21 @@
+- Manhattan College
+  - Grade Review
+    - 7 perfect scores = awesome!
+    - Comments on curving
+    - Mid term notes are now published
+    - Final Topics; titles and brief due during next class
+  - Common mistakes
+    - Spaces and Hard returns (white space)
+    - You are not doing enough browser testing.
+  - Dreamweaver Interface Review
+    - Panels
+    - Panel Groups
+    - Tabs
+    - Minimizing and Expanding Tabs
+    - Docking/Undocking Tabs
+    - Minimizing and Expanding Folders
+    - Column Headers
+  - How to download a site to test it
+    - How to download a version/commit of a site to test.
+  - Layout discussion.
+    - Review of layout for Doctor Who website.
