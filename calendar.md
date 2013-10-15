@@ -213,11 +213,6 @@ Manhattan 2013 Fall Calendar
 				<td>&nbsp;</td>
 			</tr>
 			<tr>
-				<th colspan="6" style="background-color:#FFB1B2;">
-					<p>You Are Here</p>
-				</th>
-			</tr>
-			<tr>
 				<td rowspan="3">
 					<p>5</p>
 				</td>
@@ -317,6 +312,11 @@ Manhattan 2013 Fall Calendar
 				<th colspan="6">Mid Term</th>
 			</tr>
 			<tr>
+				<th colspan="6" style="background-color:#FFB1B2;">
+					<p>You Are Here</p>
+				</th>
+			</tr>
+			<tr>
 				<td rowspan="3">
 					<p>8</p>
 				</td>
@@ -326,9 +326,12 @@ Manhattan 2013 Fall Calendar
 				<td>
 					<p>1</p>
 				</td>
-				<td>&nbsp;</td>
+			  <td>&nbsp;</td>
 				<td rowspan="3">
-					<p>&nbsp;</p>
+					<ul>
+					  <li>Final Project Title: One sentence</li>
+					  <li>Final Project Description: One paragraph</li>
+				  </ul>
 				</td>
 				<td rowspan="3">&nbsp;</td>
 			</tr>
@@ -358,7 +361,10 @@ Manhattan 2013 Fall Calendar
 				<td rowspan="3">
 					<p>&nbsp;</p>
 				</td>
-				<td rowspan="3">&nbsp;</td>
+				<td rowspan="3"><ul>
+				  <li><a href="http://www.paper-leaf.com/blog/2010/01/color-theory-quick-reference-poster/">Color Theory Quick Reference Poster</a></li>
+				  <li><a href="http://www.paper-leaf.com/blog/2011/02/elements-of-design-quick-reference-sheet/">Elements of Design Quick Reference Sheet</a></li>
+			    </ul></td>
 			</tr>
 			<tr>
 				<td>
