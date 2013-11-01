@@ -3,6 +3,7 @@
 	2. Notes
 		1. Use a template.
 		2. Use library items to manage navigation.
+		1. Make sure every page has a title.
 	1. Home Page - Add a one paragraph welcoming statement to the site visitor and a one paragraph description of the site.
 	1. The About Doctor Who Page  - should contain 3 or more paragraphs of general information about the Doctor Who television show that can be derived from Wikipedia.
 	1. The About This Site Page - should contain a running narrative in OL form of your progress on the site.
