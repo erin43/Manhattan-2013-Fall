@@ -127,15 +127,6 @@ GitHub Directory
 				<td>Clarify</td>
 			</tr>
 			<tr>
-				<td width="160"><img src="https://0.gravatar.com/avatar/0a81f976e1cbee659b90e9b7e17800b6?d=https%3A%2F%2Fidenticons.github.com%2Ffa4ce478f286e9afb12f1a9314924601.png&s=150" alt="" width="150" height="150" /></td>
-				<td nowrap>
-					<p>Erica	Stella</p>
-					<p><a href="https://github.com/ericastella">Github</a> | <a href="http://www.codecademy.com/objectAce65865">Codecademy</a></p>
-				</td>
-				<td>Quick and easy dinner recipes.</td>
-				<td>Approved</td>
-			</tr>
-			<tr>
 				<td width="160"><img src="https://0.gravatar.com/avatar/1b578284651ae7c40861fd5efd6dea56?d=https%3A%2F%2Fidenticons.github.com%2Ff81cec5e5eb9bb1bc2579cf82d525b65.png&s=150" alt="" width="150" height="150" /></td>
 				<td nowrap>
 					<p>Zuleiky	Valerio</p>
